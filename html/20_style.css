@@ -1,0 +1,26 @@
+#title {
+    width: 300px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    background-color: yellow;
+   color: navy;
+   border-radius: 10px;
+}
+
+h2 {
+ font-size: 35px;
+
+}
+
+li {
+    font-size: 20px;
+}
+
+.hw {
+    color: rgb(0, 160, 223);
+}
+
+.sw {
+    color:orangered
+}

@@ -1,0 +1,21 @@
+
+table, th, td {  
+border: 1px solid rgb(6, 58, 138);
+border-collapse: collapse;
+text-align: center;
+padding: 10px;
+}
+
+th{
+    background-color: rgb(206, 237, 255);
+}
+
+h1 {
+   color: rgb(233, 6, 101);
+}
+
+.num {
+    color: blue;
+    font-weight: bolder;
+    font-style: italic;
+}

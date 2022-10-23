@@ -1,0 +1,22 @@
+.btn {
+    background-color: aquamarine;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    line-height: 70px;
+    border-radius: 10px;
+    border: 1px solid skyblue;
+    font-size: 25px;
+    margin: 10px;
+}
+
+div:link, div:visited{
+    color: rgb(2, 116, 78);
+    text-decoration: none;
+}
+
+div:hover, div:active {
+    color: rgb(196, 244, 250);
+    text-decoration: underline;
+    font-size: 30px;
+}
